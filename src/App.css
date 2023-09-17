@@ -1,0 +1,15 @@
+.nav-bar{
+    background-color: rgb(228, 234, 234);
+    padding: 30px;
+    display: flex;
+    gap: 10px;
+    font-size: 19px;
+    margin: 0px;
+}
+
+.product-nav{
+    display: flex;
+    gap: 10px;
+    font-size: 17px;
+
+}
